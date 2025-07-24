@@ -6,6 +6,23 @@ An AI-powered emotional reflection and mental wellness companion that helps user
 
 MindMirror is a full-stack web application that combines voice-to-text transcription, emotion analysis, and AI-powered reflection prompts to support users in their mental wellness journey. The application provides a safe space for users to speak freely about their day while receiving gentle, personalized insights and reflection questions.
 
+## Screenshots
+
+### Main Interface
+![Main Interface](docs/images/main-interface.png)
+
+### Analysis Results
+![Analysis Results](docs/images/analysis-results.png)
+
+### Navigation
+![Navigation](docs/images/navigation.png)
+
+### History & Trends
+![History Page](docs/images/history-page.png)
+
+### Mobile View
+![Mobile View](docs/images/mobile-view.png)
+
 ## Features
 
 - **Voice Recording**: Real-time audio recording with playback functionality
